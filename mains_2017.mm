@@ -1,7 +1,7 @@
-<map version="freeplane 1.5.9">
+<map version="freeplane 1.6.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="UPSC" LOCALIZED_STYLE_REF="default" FOLDED="false" ID="ID_523629448" CREATED="1487759666321" MODIFIED="1531283016786" MAX_WIDTH="82.21302670596266 pt" MIN_WIDTH="82.21302670596266 pt"><hook NAME="MapStyle" background="#f7f7f7" zoom="0.916">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#a3a3ffff,#ff77b3ff,#ff9933ff,#9999ffff,#968900ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -10512,7 +10512,7 @@
 <node TEXT="http://upscpractice.blogspot.com/search/label/General%20Studies%20Paper%20I" ID="ID_1745392535" CREATED="1524239787385" MODIFIED="1524239787385" LINK="http://upscpractice.blogspot.com/search/label/General%20Studies%20Paper%20I"/>
 <node TEXT="http://upscpractice.blogspot.com/2017/09/radical-humanism-mn-roy.html" ID="ID_1283649668" CREATED="1524239791453" MODIFIED="1524239791453" LINK="http://upscpractice.blogspot.com/2017/09/radical-humanism-mn-roy.html"/>
 </node>
-<node TEXT="GS3" FOLDED="true" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1531407028667" LINK="http://mrunal.org/2017/11/dl-upsc-mains-gs3-2017.html#49">
+<node TEXT="GS3" POSITION="left" ID="ID_1838314883" CREATED="1490334058531" MODIFIED="1531407028667" LINK="http://mrunal.org/2017/11/dl-upsc-mains-gs3-2017.html#49">
 <node TEXT="2017 mains" FOLDED="true" ID="ID_180616381" CREATED="1519604337394" MODIFIED="1519604339879">
 <node FOLDED="true" ID="ID_123910175" CREATED="1519604340521" MODIFIED="1519604371521"><richcontent TYPE="NODE">
 
@@ -12849,6 +12849,7 @@
 <node TEXT="Environment" FOLDED="true" ID="ID_82154463" CREATED="1533223906885" MODIFIED="1533223912433">
 <node TEXT="N2O emissions&#xa;&#xa;70% agricultural chemical and fertilisers&#xa;12% waste water" ID="ID_1759270760" CREATED="1533223912464" MODIFIED="1533223949674"/>
 </node>
+<node TEXT="new note by kranthi" ID="ID_674885019" CREATED="1533970504102" MODIFIED="1533970508804"/>
 </node>
 <node TEXT="GS4" FOLDED="true" POSITION="left" ID="ID_381119914" CREATED="1490334134419" MODIFIED="1490334135116">
 <node TEXT="Funda" FOLDED="true" ID="ID_733633861" CREATED="1490334144171" MODIFIED="1497938602738">
